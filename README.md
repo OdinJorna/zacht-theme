@@ -1,6 +1,6 @@
 # Zacht theme
 
-Zacht is Dutch for soft. This theme aims to be a soft and modern theme for TiddlyWiki. 
+Zacht is the Dutch word for soft. This theme aims to be a soft and modern theme for TiddlyWiki while keeping the feel of vanilla. 
 
 * Zacht uses soft colours and roundings.
 * Aims to remove visual clutter
@@ -10,8 +10,10 @@ Zacht is Dutch for soft. This theme aims to be a soft and modern theme for Tiddl
 * Comes with Futura font and Rubik font embedded
 * Changes the editor for better readability
 
-# Demo
+# Demo & installation instructions
 
-# How to install?
+Check out this link: https://odinjorna.github.io/zacht-theme/
 
 # License
+
+Zacht is released under [MIT license.](https://odinjorna.github.io/zacht-theme/)
