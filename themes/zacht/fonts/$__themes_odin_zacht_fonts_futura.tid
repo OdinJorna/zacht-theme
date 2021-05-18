@@ -1,0 +1,32 @@
+created: 20210516151751486
+modified: 20210518140255025
+tags: $:/tags/Stylesheet
+title: $:/themes/odin/zacht/fonts/futura
+type: text/vnd.tiddlywiki
+
+/* Futura-regular - latin */
+@font-face {
+  font-family: 'Futura';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Futura'),
+       url(<<datauri "FuturaLT.woff2">>) format('woff2'); 
+}
+
+/* Futura-italics - latin */
+@font-face {
+  font-family: 'Futura italics';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Futura italics'),
+       url(<<datauri "FuturaLT-Oblique.woff2">>) format('woff2'); 
+}
+
+/* Futura-bold - latin */
+@font-face {
+  font-family: 'Futura bold';
+  font-style: bold;
+  font-weight: 600;
+  src: local('Futura bold'),
+       url(<<datauri "FuturaLT-Bold.woff2">>) format('woff2'); 
+}

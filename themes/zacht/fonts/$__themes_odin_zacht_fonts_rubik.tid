@@ -1,0 +1,14 @@
+created: 20210514203110838
+modified: 20210518140255044
+tags: $:/tags/Stylesheet
+title: $:/themes/odin/zacht/fonts/rubik
+type: text/vnd.tiddlywiki
+
+/* rubik-regular - latin */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rubik'),
+       url(<<datauri "rubik-v12-latin-regular.woff2">>) format('woff2'); 
+}

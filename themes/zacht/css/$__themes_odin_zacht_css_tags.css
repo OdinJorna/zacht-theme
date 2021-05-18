@@ -1,0 +1,5 @@
+button.tc-tag-label, span.tc-tag-label {
+	border-radius: 2px;
+	background-color: #cdffcd;
+	color: red;
+}

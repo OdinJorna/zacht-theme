@@ -1,0 +1,12 @@
+/*hides all tiddlerbuttons except the close button*/
+@media (min-width: 960px) { .tc-tiddler-frame .tc-tiddler-controls svg { fill: transparent; transition: all .2s ease-in; } .tc-tiddler-controls svg.tc-image-close-button, .tc-tiddler-controls svg.tc-image-done-button, .tc-tiddler-frame .tc-tiddler-controls:hover svg { fill: #cccccc; } }
+
+button:active, button:focus { outline: none; }
+
+button.tc-tag-label, span.tc-tag-label { padding: 0.3em 1em !important; }
+
+.nc-refs { color: #888; font-size: .9em; }
+
+.nc-refs h4 { font-weight: bold; margin-bottom: 4px; }
+
+.nc-post-created { color: #acacac; font-size: .8em; }

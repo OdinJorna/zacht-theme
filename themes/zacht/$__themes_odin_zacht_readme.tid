@@ -1,0 +1,16 @@
+created: 20210518182123874
+modified: 20210518182524821
+tags: 
+title: $:/themes/odin/zacht/readme
+type: text/vnd.tiddlywiki
+
+Zacht is a theme that aims to modernise the look and feel of tiddlywiki. It is inspired by [[https://supernotes.app/]]. For the latest updates, check the [[githup repo|https://github.com/OdinJorna/zacht-theme]].
+
+* Zacht uses soft colours
+* Aims to remove visual clutter
+** Automaticly hides button until hovered
+** Removes most borders
+** bigger line-height in editor
+* Comes with Futura font and Rubik font embedded
+* Changes the editor for better readability
+

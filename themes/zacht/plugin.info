@@ -1,0 +1,12 @@
+{
+"title": "$:/themes/odin/zacht",
+"name": "Zacht",
+"description": "A soft and modern theme",
+"plugin-type": "theme",	
+"author": "Odin Jorna",
+"version": "0.1",
+"core-version": ">=5.1.23",
+"list": "license readme config",
+"dependents": ["$:/themes/tiddlywiki/vanilla"],
+"source": "https://github.com/OdinJorna/zacht-theme"
+}

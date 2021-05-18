@@ -1,0 +1,32 @@
+created: 20210518134010664
+modified: 20210518181440378
+tags: tag [[tag 2]] doc
+title: Showcase
+type: text/vnd.tiddlywiki
+
+''Lorem ipsum dolor sit amet, consectetur adipiscing elit''. Sed scelerisque nulla vitae justo feugiat, ac lacinia nibh viverra. Vestibulum egestas lorem at rutrum faucibus. In vehicula lacus a sem rhoncus [[condimentum]]. Ut egestas, tortor ut faucibus posuere, neque urna tristique tellus, nec venenatis leo nulla sit amet purus. Fusce congue pulvinar dolor et ornare. Nulla pellentesque id lacus ac egestas. Donec eleifend rhoncus purus. Integer non euismod ipsum, vitae tincidunt turpis. ^^Cras quis cursus orci.^^
+
+! H1 header
+
+Suspendisse ''tempor libero eget lectus suscipit convallis.'' Vestibulum nisi augue, hendrerit quis massa ac, commodo pretium velit. Suspendisse sed felis nec erat pulvinar fermentum. Cras eu tellus semper, pellentesque velit quis, pellentesque orci. Quisque finibus, velit bibendum finibus ultricies, est justo elementum justo, et feugiat erat mi ac turpis. Vivamus hendrerit faucibus dictum.// Duis eget bibendum mi.// Duis ac velit pulvinar est venenatis dignissim.
+
+This is a [[link to the intro tiddler|Zacht]]
+
+```
+/* centralises the tiddler and prevents tiddlers from getting too wide  */
+
+div.tc-tiddler-frame { 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 80%; 
+}
+```
+!! h2 header
+
+* Aliquam vitae nunc mattis, elementum enim ac, ullamcorper mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+** Quisque condimentum ex varius posuere efficitur. Maecenas vel nunc quis ex bibendum commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+**# Duis et molestie orci, sit amet efficitur est. Etiam aliquam lacinia nibh, id facilisis magna tincidunt a. Sed aliquam, turpis et efficitur hendrerit, urna enim luctus arcu, a blandit arcu velit eget mauris. Praesent hendrerit lectus in nunc molestie posuere.
+
+<<<
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi efficitur est at augue venenatis, et porta libero cursus. Donec ac sagittis sapien. Curabitur eget dignissim tortor. Fusce et ullamcorper leo, in elementum ante. Morbi porttitor ante non sodales sodales. In id elit nibh.
+<<<

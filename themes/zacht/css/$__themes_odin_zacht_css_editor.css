@@ -1,0 +1,34 @@
+/* from: http://j.d.whitespace.tiddlyspot.com/ */
+
+/** NO BOX SHADOW ON INPUTS **/
+
+.tc-tiddler-edit-frame .tc-edit-field-add input.tc-edit-texteditor, .tc-tiddler-edit-frame text, .tc-tiddler-edit-frame textarea, .tc-tiddler-edit-frame .tc-edit-tags, .tc-tiddler-edit-frame textarea.tc-edit-texteditor { -moz-box-shadow: none !important; -ms-box-shadow: none !important; -o-box-shadow: none !important; -webkit-box-shadow: none !important; box-shadow: none !important; }
+
+.tc-tiddler-edit-frame input.tc-titlebar.tc-edit-texteditor, .tc-tiddler-edit-frame .tc-edit-tags, .tc-tiddler-edit-frame text, .tc-tiddler-edit-frame textarea, .tc-tiddler-edit-frame textarea.tc-edit-texteditor { border: none !important; }
+
+/** EDIT TIDDLER **/
+
+.tc-tiddler-edit-frame input.tc-titlebar.tc-edit-texteditor { -moz-box-shadow: none !important; -ms-box-shadow: none !important; -o-box-shadow: none !important; -webkit-box-shadow: none !important; box-shadow: none !important; padding: .25em .5em !important; font-size: 24px; font-weight: normal; }
+
+.tc-tiddler-edit-frame .tc-edit-tags, .tc-tiddler-edit-frame .tc-editor-toolbar, .tc-tiddler-edit-frame .tc-type-selector, .tc-tiddler-edit-frame .tc-edit-field-add { padding: 8px 4px; }
+
+.tc-tiddler-edit-frame input.tc-edit-texteditor, .tc-tiddler-edit-frame .tc-edit-tags, .tc-tiddler-edit-frame .tc-editor-toolbar, .tc-tiddler-edit-frame .tc-type-selector, .tc-tiddler-edit-frame .tc-edit-field-add { margin: 0 0 4px 0 !important; }
+
+.tc-tiddler-edit-frame iframe.tc-edit-texteditor, .tc-tiddler-edit-frame table.tc-edit-fields { margin: 0 !important; }
+
+.tc-tiddler-edit-frame .tc-editor-toolbar { background: #cccccc; margin-bottom: 0 !important; }
+
+.tc-tiddler-edit-frame .tc-editor-toolbar .tc-btn-invisible { background: transparent; }
+
+.tc-tiddler-edit-frame .tc-editor-toolbar .tc-btn-invisible:hover { background: transparent; fill: #5778d8; }
+
+textarea.large-textarea { min-height: 100px; width: 100%; max-width: 100%; border: 1px solid #dddddd !important; }
+
+input.scene-textarea { border: 1px solid #dddddd !important; }
+
+textarea {
+	line-height: 1.5em !important;
+	background-color: #f8f8f8;
+	padding: 10px !important; 
+	margin-top: 0px !important;
+}

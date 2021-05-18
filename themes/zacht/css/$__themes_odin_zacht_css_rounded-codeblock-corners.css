@@ -1,0 +1,6 @@
+/* Gives codeblocks rounded corners to match theme */
+
+pre {
+	border-radius: 8px;
+
+}

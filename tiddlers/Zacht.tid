@@ -1,0 +1,15 @@
+created: 20210513124730811
+modified: 20210518182542954
+tags: doc
+title: Zacht
+type: text/vnd.tiddlywiki
+
+{{$:/themes/odin/zacht/readme}}
+
+!! How to install:
+
+Drag and drop the following link into your tiddler:
+
+{{$:/themes/odin/zacht||$:/core/ui/Components/plugin-info}}
+
+After installing the theme, change your theme in the control panel to `Zacht`and your color palette to `Zacht default` {{$:/core/ui/Buttons/palette}}

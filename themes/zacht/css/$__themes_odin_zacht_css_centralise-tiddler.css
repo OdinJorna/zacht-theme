@@ -1,0 +1,8 @@
+/* centralises the tiddler and prevents tiddlers from getting too wide  */
+
+div.tc-tiddler-frame { 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 90%;
+	max-width: {{$:/config/odin/zacht/max-tiddler-width}}px;
+}

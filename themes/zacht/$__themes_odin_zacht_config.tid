@@ -1,0 +1,7 @@
+created: 20210518183540978
+modified: 20210518183911358
+tags: 
+title: $:/themes/odin/zacht/config
+type: text/vnd.tiddlywiki
+
+Set max width of tiddler frames in px: <$edit-text tiddler="$:/config/odin/zacht/max-tiddler-width" field="text" tag="input"/>
