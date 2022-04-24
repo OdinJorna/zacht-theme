@@ -16,7 +16,7 @@
 
 .tc-tiddler-edit-frame iframe.tc-edit-texteditor, .tc-tiddler-edit-frame table.tc-edit-fields { margin: 0 !important; }
 
-.tc-tiddler-edit-frame .tc-editor-toolbar { background: #cccccc; margin-bottom: 0 !important; }
+.tc-tiddler-edit-frame .tc-editor-toolbar { background: <<colour editor-background>>; margin-bottom: 0 !important; }
 
 .tc-tiddler-edit-frame .tc-editor-toolbar .tc-btn-invisible { background: transparent; }
 
